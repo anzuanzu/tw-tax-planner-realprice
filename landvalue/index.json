@@ -1,0 +1,157 @@
+{
+ "updated": "2026-11-09",
+ "counties": {
+  "A": {
+   "name": "臺北市",
+   "year": 115,
+   "sections": 552,
+   "parcels": 421029,
+   "source": "政府資料開放平臺 資料集 122058",
+   "unmatched": 2
+  },
+  "B": {
+   "name": "臺中市",
+   "year": 115,
+   "sections": 1409,
+   "parcels": 1611691,
+   "source": "政府資料開放平臺 資料集 176410",
+   "unmatched": 0
+  },
+  "C": {
+   "name": "基隆市",
+   "year": 115,
+   "sections": 133,
+   "parcels": 136717,
+   "source": "政府資料開放平臺 資料集 176444",
+   "unmatched": 2
+  },
+  "D": {
+   "name": "臺南市",
+   "year": 114,
+   "sections": 1221,
+   "parcels": 1896706,
+   "source": "政府資料開放平臺 資料集 172313",
+   "unmatched": 3670
+  },
+  "E": {
+   "name": "高雄市",
+   "year": 114,
+   "sections": 1487,
+   "parcels": 1504222,
+   "source": "政府資料開放平臺 資料集 172490",
+   "unmatched": 177
+  },
+  "F": {
+   "name": "新北市",
+   "year": 115,
+   "sections": 1341,
+   "parcels": 1145196,
+   "source": "政府資料開放平臺 資料集 176381",
+   "unmatched": 4040
+  },
+  "H": {
+   "name": "桃園市",
+   "year": 115,
+   "sections": 883,
+   "parcels": 1155603,
+   "source": "政府資料開放平臺 資料集 176437",
+   "unmatched": 0
+  },
+  "I": {
+   "name": "嘉義市",
+   "year": 115,
+   "sections": 163,
+   "parcels": 169572,
+   "source": "政府資料開放平臺 資料集 99116",
+   "unmatched": 0
+  },
+  "J": {
+   "name": "新竹縣",
+   "year": 115,
+   "sections": 549,
+   "parcels": 581813,
+   "source": "政府資料開放平臺 資料集 176487、176488、176489、176490、176491、176492、176493、176494、176495、176496、176497、176498、176499",
+   "unmatched": 4079
+  },
+  "K": {
+   "name": "苗栗縣",
+   "year": 115,
+   "sections": 592,
+   "parcels": 775910,
+   "source": "政府資料開放平臺 資料集 176440",
+   "unmatched": 0
+  },
+  "N": {
+   "name": "彰化縣",
+   "year": 115,
+   "sections": 709,
+   "parcels": 1004222,
+   "source": "政府資料開放平臺 資料集 115895",
+   "unmatched": 0
+  },
+  "O": {
+   "name": "新竹市",
+   "year": 115,
+   "sections": 150,
+   "parcels": 207471,
+   "source": "政府資料開放平臺 資料集 160290",
+   "unmatched": 0
+  },
+  "P": {
+   "name": "雲林縣",
+   "year": 115,
+   "sections": 735,
+   "parcels": 1308492,
+   "source": "政府資料開放平臺 資料集 176460、176461、176462、176463、176464、176468",
+   "unmatched": 144
+  },
+  "Q": {
+   "name": "嘉義縣",
+   "year": 115,
+   "sections": 829,
+   "parcels": 746201,
+   "source": "政府資料開放平臺 資料集 176469",
+   "unmatched": 3738
+  },
+  "T": {
+   "name": "屏東縣",
+   "year": 115,
+   "sections": 899,
+   "parcels": 957212,
+   "source": "政府資料開放平臺 資料集 176394",
+   "unmatched": 0
+  },
+  "U": {
+   "name": "花蓮縣",
+   "year": 113,
+   "sections": 459,
+   "parcels": 668842,
+   "source": "政府資料開放平臺 資料集 167561、167010",
+   "unmatched": 1693
+  },
+  "V": {
+   "name": "臺東縣",
+   "year": 115,
+   "sections": 558,
+   "parcels": 413654,
+   "source": "政府資料開放平臺 資料集 176508",
+   "unmatched": 453
+  },
+  "W": {
+   "name": "金門縣",
+   "year": 115,
+   "sections": 247,
+   "parcels": 216778,
+   "source": "政府資料開放平臺 資料集 176412",
+   "unmatched": 0
+  },
+  "X": {
+   "name": "澎湖縣",
+   "year": 115,
+   "sections": 223,
+   "parcels": 211335,
+   "source": "政府資料開放平臺 資料集 176400、176401、176402、176403、176404、176405",
+   "unmatched": 0
+  }
+ }
+}
